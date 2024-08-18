@@ -15,8 +15,9 @@ example-repository/
 │   ├─── modelo1.glb
 │   └─── thumbnail1.jpg
 └───Anuvix
-    ├─── modelo2.glb
-    └─── thumbnail2.jpg
+│   ├─── modelo2.glb
+│   └─── thumbnail2.jpg
+├───blender-services.jso
 ```
 
 ## Archivo `blender-services.json`
